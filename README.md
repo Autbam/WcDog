@@ -1,0 +1,2 @@
+# WcDog
+WcDogMiner
