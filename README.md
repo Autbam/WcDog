@@ -5,3 +5,6 @@ WcDogMiner is the well-known mining software. She started in 2017 and is a very 
 Download:https://github.com/Autbam/WcDogLanRemote/releases/
 
 Telegram:https://t.me/joinchat/aCK7T9Kn5XFkMTg1
+
+# Company
+PINE FOREST NETWORK LTD
