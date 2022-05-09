@@ -1,5 +1,7 @@
 # WcDog
 WcDogMiner is the well-known mining software. She started in 2017 and is a very old mining software. Since the release of this software, the number of users has continued to increase, and a large number of users have been praised. The operations such as selecting a mining pool, adding a wallet, and overclocking are simple and easy to understand. This software supports multiple cores and can be switched at will. Except for the pumping of the mining kernel, this software will not devfee. We welcome everyone to supervise it. 
+# 矿池加速服务
+https://reurl.cc/A7y7yQ
 # Coin Support
 ETH,ETC,RVN,CFX,AE,BCF,SERO,VDS,ERGO,BEAM
 # Miner Support
